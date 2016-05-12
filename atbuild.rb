@@ -4,9 +4,9 @@
 class Atbuild < Formula
   desc "No description!  file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
   homepage "No homepage! file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
-  url "https://github.com/AnarchyTools/atbuild/releases/download/1.2/atbuild-1.2-osx.atbin.tar.xz"
-  version "1.2"
-  sha256 "c084025ce2a5e2428c03d605e8f74982cc118cd030b723ac280a730bb40c7eb4"
+  url "https://github.com/AnarchyTools/atbuild/releases/download/1.3/atbuild-1.3-osx.atbin.tar.xz"
+  version "1.3"
+  sha256 "1d67a5f526ed41805b27311390b2e04a9ae0a6751435a4062c4d7604f3bf2deb"
 
   def install
   # We don't need the folder name here; it seems to be supplied automatically
