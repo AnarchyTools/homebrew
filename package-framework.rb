@@ -4,9 +4,9 @@
 class PackageFramework < Formula
   desc "No description!  file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
   homepage "No homepage! file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
-  url "https://github.com/AnarchyTools/package-framework/releases/download/1.0/package_framework-1.0-osx.atbin.tar.xz"
-  version "1.0"
-  sha256 "b79537b5b121bb259ccad9a30c691ae4fe26cce174583ad4de7879bbba30dde2"
+  url "https://github.com/AnarchyTools/package-framework/releases/download/1.0.1/package_framework-1.0.1-osx.atbin.tar.xz"
+  version "1.0.1"
+  sha256 "d102b173003dfbbe4ce3608c3625623035a751593cc94989374646250192cfc7"
 
   def install
   # We don't need the folder name here; it seems to be supplied automatically
