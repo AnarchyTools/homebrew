@@ -4,9 +4,9 @@
 class Atpm < Formula
   desc "No description!  file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
   homepage "No homepage! file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
-  url "https://github.com/AnarchyTools/atpm/releases/download/1.1/atpm-1.1-osx.atbin.tar.xz"
-  version "1.1"
-  sha256 "ac74d75c79fb442aa947306ee5c95ce2a6bfc3d807b8347b9da3e0fc83afc00b"
+  url "https://github.com/AnarchyTools/atpm/releases/download/1.2/atpm-1.2-osx.atbin.tar.xz"
+  version "1.2"
+  sha256 "601301ac021b91379d8b65d291b0563b1a78d64f30118ba6658559f5e094b428"
 
   def install
   # We don't need the folder name here; it seems to be supplied automatically
