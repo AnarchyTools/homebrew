@@ -4,9 +4,9 @@
 class XcodeEmit < Formula
   desc "No description!  file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
   homepage "No homepage! file a bug at https://github.com/AnarchyTools/package-homebrew/issues"
-  url "https://github.com/AnarchyTools/xcode-emit/releases/download/0.4/xcode_emit-0.4-osx.atbin.tar.xz"
-  version "0.4"
-  sha256 "d65dd12a744dd58543322bbb580a96f660334f18507769bedd9a9ac579439202"
+  url "https://github.com/AnarchyTools/xcode-emit/releases/download/1.0/xcode_emit-1.0-osx.atbin.tar.xz"
+  version "1.0"
+  sha256 "bf439b2cf496685f2e970813eedd3d03f2e165078f0cb43a28ae3222d0f77372"
 
   def install
   # We don't need the folder name here; it seems to be supplied automatically
